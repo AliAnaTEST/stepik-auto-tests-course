@@ -1,2 +1,2 @@
 # stepik-auto-tests-course
-vkmsdkcmksdmckdsmcksdmckdsmckmsdkmcksdmvksdmcksdmcksdcmksdcmdskmk
+Здесь расположены дз по курсу
